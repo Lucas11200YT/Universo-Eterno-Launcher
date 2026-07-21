@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "notes": "Nova versão disponível!",
+  "pub_date": "2026-07-21T12:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "ASSINATURA_GERADA_DURANTE_O_BUILD_DA_VERSAO_NOVA",
+      "url": "https://seu-dominio-ou-github.github.io/launcher-updates/universo-eterno_0.2.0_x64_pt-BR.zip"
+    }
+  }
+}
