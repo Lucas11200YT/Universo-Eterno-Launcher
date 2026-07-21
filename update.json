@@ -4,7 +4,7 @@
   "pub_date": "2026-07-21T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "ASSINATURA_GERADA_DURANTE_O_BUILD_DA_VERSAO_NOVA",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbUdOK0IzNnpVbk5VZEV5THdKZTUvUkd6ZjZUTURENG5HdWMxTHBTSWlySWVnenA5OE55VitlSlY4YXlxc2RES2NkMHFKVEdHQlhkczZDWjdwcWZpS3ROZ3c1ckg2OWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjU4OTYwCWZpbGU6dW5pdmVyc28tZXRlcm5vXzAuMS4wX3g2NC1zZXR1cC5leGUKZXNKNHlSdTExb3VvNlRpRjExc0tXYTdYRGFXTlpkTFg3dXo2cDlXcHN4ZkFvYjJGL2RGelAyWWRwdUczbmd4UmMyTWFEY1grTG9rNWR3ZkpsWUUxQWc9PQo=",
       "url": "https://seu-dominio-ou-github.github.io/launcher-updates/universo-eterno_0.2.0_x64_pt-BR.zip"
     }
   }
