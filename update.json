@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1",
-  "notes": "Versão 1.0.1 disponível!",
+  "version": "1.0.2",
+  "notes": "Versão 1.0.2 disponível!",
   "pub_date": "2026-07-22T11:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbUdOK0IzNnpVbkMyMVp5am9kZ2dTZGd3Rm5WVkZvU1RITFhQSy9RRlNzc2ZKYmxnRlc1NXBTU0xONGtJekJEZW53Unp1Y1hwSnU2M2Q3aGl5aGY3WGlhbmxlbTVvRVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NzQ2NDk3CWZpbGU6VW5pdmVyc28gRXRlcm5vXzEuMC4xX3g2NC1zZXR1cC5leGUKSmxpUFF3Qkt5djJOd1FIRXA4QkhJd3o3WkJoOVRMUlM1NDdEVVFuL2hmRno0SkFuQk1ObzdYTEx1Ky8ycEIzZy91V2RMRHgrakp0RXFXeFhaSUZXRFE9PQo=",
-      "url": "https://github.com/Lucas11200YT/Universo-Eterno-Launcher/releases/download/1.0.1/Universo.Eterno_1.0.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbUdOK0IzNnpVbkFra1Q3a0x3RHZEQllTZE9SWUZCS3h3eUJoQ2lYc1FtVHg3QXJ4VWwzSElGbk9UMWxsbVAvQzN4ZzRucWZ6VjRZZlVhdlVwOTZpZVZrVnpWbXhtRndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NzUwMDkzCWZpbGU6VW5pdmVyc28gRXRlcm5vXzEuMC4yX3g2NC1zZXR1cC5leGUKTk01blBNZXFNNlROWUNHWmdtc2FYTVRGZ3Q0OGd0RnNDTFVHOWFNM3gxV2JFWktKRkc4MXVOcXF4NzBrcnBhcVl1bFpkc3I5UVFkeTVxT1k5YW5OREE9PQo=",
+      "url": "https://github.com/Lucas11200YT/Universo-Eterno-Launcher/releases/download/1.0.2/Universo.Eterno_1.0.2_x64-setup.exe"
     }
   }
 }
